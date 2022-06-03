@@ -10,6 +10,9 @@
 2) Zebiniso Sultonmurodova
 3) Aisuluu Ulan kyzy
 
+[Presentation](https://github.com/luianqi/logic_gates/files/8829742/Logic.gates.pdf)
+
+
 ---
 # Prerequisites
 This is a project written using Python, Pygame
